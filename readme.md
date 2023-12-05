@@ -1,7 +1,7 @@
 # Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
+Particles Proyect: Geometry Full Color 
 
-## Setup
+## How to Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
